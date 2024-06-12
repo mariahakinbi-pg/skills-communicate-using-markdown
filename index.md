@@ -7,5 +7,11 @@ first_phrase = 'Hello, world!'
 print(first_phrase)
 ```
 
+```md
+   - [ ] Finish Intro to GithHub
+   - [ ] Finish Communicate Using Markdown
+   - [ ] Finish GitHub Pages
+```
+
 This is the P&G logo:
 ![Procter & Gamble logo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Procter_%26_Gamble_logo.svg/640px-Procter_%26_Gamble_logo.svg.png)
